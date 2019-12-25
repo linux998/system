@@ -1,3 +1,2 @@
 #! /bin/bash
-ssh-keygen
-nmtui hostname xxx
+\cp ./host/hosts /etc/hosts
