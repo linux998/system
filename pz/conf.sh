@@ -1,2 +1,2 @@
 #! /bin/bash
-\cp ./host/hosts /etc/hosts
+\cp /system/pz/host/hosts /etc/hosts
